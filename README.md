@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Computer Vision
 - 🌱 I’m currently learning Deep Learning for Computer Vision 
 - 💞️ I’m looking to collaborate on anything which lies in the Intersection of Machine Learning , Computer Vision , Domain Generalization and Category Discovery
-- 📫 Email : vaibhav.rathor.in@gmail.com
+- 📫 Email : vaibhav.rathor.in@gmail.com , vaibhav.rathore@iitb.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
